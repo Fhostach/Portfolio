@@ -15,14 +15,14 @@ const Footer = () => {
           © 2023 Florian Hostachy<a href="/" className="hover:underline"></a>
         </div>
         <div className="flex flex-row items-center justify-center space-x-2 mb-1">
-          <a href="https://github.com/hqasmei" rel="noreferrer" target="_blank">
+          <a href="https://github.com/Fhostach  " rel="noreferrer" target="_blank">
             <AiOutlineGithub
               className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
               size={30}
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/hosnaqasmei/"
+            href="https://www.linkedin.com/in/florian-hostachy-b72b91274/"
             rel="noreferrer"
             target="_blank"
           >

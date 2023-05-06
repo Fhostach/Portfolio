@@ -9,7 +9,7 @@ const projects = [
     name: "Allaitement Québec",
     description:
       "Site crée avec notre équipe pendant nos cours il permet la conversation en direct avec les bénévoles de allaitement québec.",
-    image: "/thankfulthoughts.png",
+    image: "/allaitement.png",
     github: "https://github.com/maxencemazeau/AllaitementQuebec",
     link: "https://chat.allaitementquebec.org/",
   },

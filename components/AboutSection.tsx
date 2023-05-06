@@ -27,38 +27,30 @@ const AboutSection = () => {
         <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
           <div className="md:w-1/2 ">
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
-              Get to know me!
+            Apprendre à me connaître !
             </h1>
             <p>
-              Hi, my name is Hosna and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+            Bonjour, je m'appelle Florian et je suis un développeur{" "}
+              <span className="font-bold">{" hautement ambitieuse"}</span>,
+              <span className="font-bold">{" motivée "}</span>, et
+              <span className="font-bold">{" déterminée "}</span>
+              vivant a Rivière-du-Loup, QC.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
+            J'ai obtenu mon diplôme en technique de l'informatique au Cégep à Rivière-du-Loup en 2023.
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
-              I am always seeking new experiences and love to keep myself
-              engaged and learning new things.
+            J'ai une grande variété de passe-temps et de passions qui me tiennent occupée. Du bricolage, à la pratique de sports, en passant par les voyages et ma passion pour l'automobile, je suis toujours à la recherche de nouvelles expériences et j'adore me tenir engagée et apprendre de nouvelles choses.
             </p>
             <br />
             <p>
-              I believe that you should{" "}
+            Je crois qu'il ne faut jamais{" "}
               <span className="font-bold text-teal-500">
-                never stop growing
+              cesser de grandir
               </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              et c'est ce que je m'efforce de faire. J'ai une passion pour la technologie et le désir de toujours repousser les limites de ce qui est possible. Je suis enthousiaste de voir où ma carrière me mènera et suis toujours ouverte à de nouvelles opportunités. 🙂
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">

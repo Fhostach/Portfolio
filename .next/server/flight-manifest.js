@@ -237,11 +237,11 @@ self.__RSC_MANIFEST={
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\app\\layout": [
+    "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\app\\layout": [
       "static/css/app/layout.css"
     ]
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\components\\HeroSection.tsx": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\components\\HeroSection.tsx": {
     "": {
       "id": "(app-client)/./components/HeroSection.tsx",
       "name": "",
@@ -267,7 +267,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\components\\SlideUp.tsx": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\components\\SlideUp.tsx": {
     "": {
       "id": "(app-client)/./components/SlideUp.tsx",
       "name": "",
@@ -293,7 +293,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\node_modules\\next\\dist\\client\\image.js": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\node_modules\\next\\dist\\client\\image.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
@@ -319,7 +319,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\node_modules\\next\\dist\\client\\link.js": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\node_modules\\next\\dist\\client\\link.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
@@ -345,7 +345,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\styles\\globals.css": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\styles\\globals.css": {
     "default": {
       "id": "null",
       "name": "default",
@@ -354,7 +354,7 @@ self.__RSC_MANIFEST={
       ]
     }
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\app\\layout.tsx": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\app\\layout.tsx": {
     "": {
       "id": "(app-client)/./app/layout.tsx",
       "name": "",
@@ -380,7 +380,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\node_modules\\next\\dist\\client\\components\\app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -406,7 +406,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -432,7 +432,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -458,7 +458,7 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portofolio\\Portofolio\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+  "C:\\Users\\hosta\\OneDrive\\Documents\\TravauxBis\\Portfolio\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
