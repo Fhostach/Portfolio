@@ -4,6 +4,7 @@ import Image from "next/image"
 const skills = [
   { skill: "HTML" },
   { skill: "CSS" },
+  { skill: "SCSS" },
   { skill: "JavaScript" },
   { skill: "TypeScript" },
   { skill: "Python" },
@@ -31,9 +32,9 @@ const AboutSection = () => {
             </h1>
             <p>
             Bonjour, je m'appelle Florian et je suis un développeur{" "}
-              <span className="font-bold">{" hautement ambitieuse"}</span>,
-              <span className="font-bold">{" motivée "}</span>, et
-              <span className="font-bold">{" déterminée "}</span>
+              <span className="font-bold">{" hautement ambitieux"}</span>,
+              <span className="font-bold">{" motivé "}</span>, et
+              <span className="font-bold">{" déterminé "}</span>
               vivant a Rivière-du-Loup, QC.
             </p>
             <br />
@@ -42,7 +43,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-            J'ai une grande variété de passe-temps et de passions qui me tiennent occupée. Du bricolage, à la pratique de sports, en passant par les voyages et ma passion pour l'automobile, je suis toujours à la recherche de nouvelles expériences et j'adore me tenir engagée et apprendre de nouvelles choses.
+            J'ai une grande variété de passe-temps et de passions qui me tient occupé. Du bricolage, à la pratique de sports, en passant par les voyages et ma passion pour l'automobile, je suis toujours à la recherche de nouvelles expériences et j'adore me tenir engagé et apprendre de nouvelles choses.
             </p>
             <br />
             <p>
