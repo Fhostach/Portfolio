@@ -31,7 +31,7 @@ const AboutSection = () => {
             Apprendre à me connaître !
             </h1>
             <p>
-            Bonjour, je m'appelle Florian et je suis un développeur{" "}
+            Bonjour, je m&apos;appelle Florian et je suis un développeur{" "}
               <span className="font-bold">{" hautement ambitieux"}</span>,
               <span className="font-bold">{" motivé "}</span>, et
               <span className="font-bold">{" déterminé "}</span>
@@ -39,19 +39,19 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-            J'ai obtenu mon diplôme en technique de l'informatique au Cégep à Rivière-du-Loup en 2023.
+            J&apos;ai obtenu mon diplôme en technique de l&apos;sinformatique au Cégep à Rivière-du-Loup en 2023.
             </p>
             <br />
             <p>
-            J'ai une grande variété de passe-temps et de passions qui me tient occupé. Du bricolage, à la pratique de sports, en passant par les voyages et ma passion pour l'automobile, je suis toujours à la recherche de nouvelles expériences et j'adore me tenir engagé et apprendre de nouvelles choses.
+            J&apo;ai une grande variété de passe-temps et de passions qui me tient occupé. Du bricolage, à la pratique de sports, en passant par les voyages et ma passion pour l'automobile, je suis toujours à la recherche de nouvelles expériences et j&apos;adore me tenir engagé et apprendre de nouvelles choses.
             </p>
             <br />
             <p>
-            Je crois qu'il ne faut jamais{" "}
+            Je crois qu&apos;il ne faut jamais{" "}
               <span className="font-bold text-teal-500">
               cesser de grandir
               </span>{" "}
-              et c'est ce que je m'efforce de faire. J'ai une passion pour la technologie et le désir de toujours repousser les limites de ce qui est possible. Je suis enthousiaste de voir où ma carrière me mènera et suis toujours ouverte à de nouvelles opportunités. 🙂
+              et c&apos;est ce que je m'efforce de faire. J&apos;ai une passion pour la technologie et le désir de toujours repousser les limites de ce qui est possible. Je suis enthousiaste de voir où ma carrière me mènera et suis toujours ouverte à de nouvelles opportunités. 🙂
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">

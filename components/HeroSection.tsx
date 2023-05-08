@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Développeur Front-End & Back-End {" "}
             </span>
-            vivant à Rivière-du-Loup au Québec. Codeur passionné en quête d'opportunités, prêt à relever tous les défis pour créer un avenir numérique innovant. Prêt à apprendre, à grandir et à apporter une valeur ajoutée à votre équipe dès aujourd'hui.
+            vivant à Rivière-du-Loup au Québec. Codeur passionné en quête d&apos;opportunités, prêt à relever tous les défis pour créer un avenir numérique innovant. Prêt à apprendre, à grandir et à apporter une valeur ajoutée à votre équipe dès aujourd&apos;hui.
           </p>
           <Link
             to="projects"
