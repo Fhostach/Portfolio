@@ -43,7 +43,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-            J&apo;ai une grande variété de passe-temps et de passions qui me tient occupé. Du bricolage, à la pratique de sports, en passant par les voyages et ma passion pour l'automobile, je suis toujours à la recherche de nouvelles expériences et j&apos;adore me tenir engagé et apprendre de nouvelles choses.
+            J&apos;ai une grande variété de passe-temps et de passions qui me tient occupé. Du bricolage, à la pratique de sports, en passant par les voyages et ma passion pour l&apos;automobile, je suis toujours à la recherche de nouvelles expériences et j&apos;adore me tenir engagé et apprendre de nouvelles choses.
             </p>
             <br />
             <p>
@@ -51,7 +51,7 @@ const AboutSection = () => {
               <span className="font-bold text-teal-500">
               cesser de grandir
               </span>{" "}
-              et c&apos;est ce que je m'efforce de faire. J&apos;ai une passion pour la technologie et le désir de toujours repousser les limites de ce qui est possible. Je suis enthousiaste de voir où ma carrière me mènera et suis toujours ouverte à de nouvelles opportunités. 🙂
+              et c&apos;est ce que je m&apos;efforce de faire. J&apos;ai une passion pour la technologie et le désir de toujours repousser les limites de ce qui est possible. Je suis enthousiaste de voir où ma carrière me mènera et suis toujours ouverte à de nouvelles opportunités. 🙂
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
