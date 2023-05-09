@@ -33,13 +33,13 @@ const AboutSection = () => {
             <p>
             Bonjour, je m&apos;appelle Florian et je suis un développeur{" "}
               <span className="font-bold">{" hautement ambitieux"}</span>,
-              <span className="font-bold">{" motivé "}</span>, et
+              <span className="font-bold">{" motivé "}</span>et
               <span className="font-bold">{" déterminé "}</span>
               vivant a Rivière-du-Loup, QC.
             </p>
             <br />
             <p>
-            J&apos;ai obtenu mon diplôme en technique de l&apos;sinformatique au Cégep à Rivière-du-Loup en 2023.
+            J&apos;ai obtenu mon diplôme en technique de l&apos;informatique au Cégep à Rivière-du-Loup en 2023.
             </p>
             <br />
             <p>
